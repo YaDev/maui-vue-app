@@ -1,3 +1,6 @@
+
+![Alt text](screenshot.jpg?raw=true "Optional Title")
+
 # .NET MAUI Vue.js Hybrid and Cross-Platform App
 
 This project is designed to help you quickly build a hybrid app for Windows, Linux, macOS, Android, and iOS using .NET MAUI and the Vue.js framework. It leverages Blazor framework JS interop to link .NET code in C# with JavaScript/TypeScript in Vue.js . Best of all, you can build this project without needing to install Microsoft Visual Studio on your Windows, Mac or Linux machine.

@@ -18,17 +18,17 @@ This project is designed to help you quickly build a hybrid app for Windows, Lin
 
 Ensure you have the following installed:
 
-- [.NET SDK](https://dotnet.microsoft.com/download)
+- [.NET 8 SDK](https://dotnet.microsoft.com/download)
 - [.NET MAUI](https://github.com/dotnet/docs-maui/blob/main/docs/get-started/installation.md)
 - [XCode (Mac Only)](https://xcodereleases.com/)
 - GTK+ gtk+-3.0(libgtk-3-0) and webkit2gtk-4 (libwebkit2gtk-4.0) (**Linux Only**)
-- [Android SDK](https://developer.android.com/)
+- [Android SDK (For Android Build)](https://developer.android.com/)
 - [Node.js and npm](https://nodejs.org/)
 - [VSCode](https://code.visualstudio.com/)
 - [VSCode .NET MAUI extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui)
 
 Optional:
-- [VSCode .NET Meteor extension (Alternative)](https://marketplace.visualstudio.com/items?itemName=nromanov.dotnet-meteor)
+- [VSCode .NET Meteor extension (Alternative for the official MAUI extension)](https://marketplace.visualstudio.com/items?itemName=nromanov.dotnet-meteor)
 - [VSCode Android WebView Debugging extension](https://marketplace.visualstudio.com/items?itemName=mpotthoff.vscode-android-webview-debug)
 
 
@@ -57,7 +57,7 @@ Optional:
 
 ### Building the Project
 
-**Build the project using VSCode .NET MAUI extension** or build it manually, using the following commands:
+**Build the project using VSCode .NET MAUI or .NET Meteor extensions** or build it manually, using the following commands:
 
 - **Windows:**
 
